@@ -41,4 +41,4 @@ El menú navideño será:
 
 ### Finalmente agregaremos una imagen de mi viaje a Belice:
 
-![Mi imagen de Belice](imagen.jpg)
+![Mi imagen de Belice](imagen.jpeg)
