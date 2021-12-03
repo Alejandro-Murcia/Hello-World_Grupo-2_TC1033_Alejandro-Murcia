@@ -1,4 +1,4 @@
-# Hello-World_Grupo 2_TC1033
+# Hello World_Grupo 2_TC1033
 ## Alejandro Murcia
 
 ### Bienvenidos a mi primer commit en Github
