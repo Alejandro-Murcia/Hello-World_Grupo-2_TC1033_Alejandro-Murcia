@@ -1,6 +1,7 @@
 # Hello World_Grupo 2_TC1033
-## Alejandro Murcia
+## Josué Emmanuel Flores Mendoza
 
+### Esta es mi primera edición en Github
 ### Bienvenidos a mi primer commit en Github
 
 *A continuación colocaré un código de C++ en el que imprimo Hello World*
